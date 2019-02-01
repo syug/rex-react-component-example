@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './App.css';
+// import './App.css';
 
 // TODO: Not working, need type definition file
 // import RexButton from 'rex-button';
@@ -14,7 +14,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <RexIcons name="logo" />
+          <RexIcons name="share-f" />
         </header>
       </div>
     );
