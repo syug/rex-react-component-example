@@ -8382,6 +8382,14 @@ rex-header@^0.0.1:
   resolved "https://registry.yarnpkg.com/rex-header/-/rex-header-0.0.1.tgz#8fa3992276d4ab813a16e3e2d173aa0501b39018"
   integrity sha512-g5O67D95VSau6eQQoUFimTj4g5GcsM6nLOugcaP/PmyhG0Wfho0DLOJQm3/WZAJDrFWd/YXni70NZccQ5s5ldQ==
 
+rex-icons@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/rex-icons/-/rex-icons-0.0.3.tgz#e3373ab8285ac416a21c5faa6891235ab3e66ae4"
+  integrity sha512-+rWh60IPbhBXDQxD+tRVXw/8grj66dZNt3i5kKs3rLj9AulU9SOYJuOOkPlidTVy1ftID/HKWwU5rfiF8plJMQ==
+  dependencies:
+    react "^16.5.2"
+    react-dom "^16.5.2"
+
 rgb-regex@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/rgb-regex/-/rgb-regex-1.0.1.tgz#c0e0d6882df0e23be254a475e8edd41915feaeb1"
