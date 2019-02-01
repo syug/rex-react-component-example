@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "rex-react-components-typescript-example",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,6 +10,8 @@
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.3",
+    "rex-button": "^0.1.0",
+    "rex-header": "^0.0.1",
     "typescript": "3.3.1"
   },
   "scripts": {
