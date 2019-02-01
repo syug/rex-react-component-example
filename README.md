@@ -1,1 +1,1 @@
-# rex-react-component-example
+# rex-react-components-typescript-example
